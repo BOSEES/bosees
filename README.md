@@ -32,4 +32,6 @@
 
 <p align="center">
 <a href="https://velog.io/@yeoungil012"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bosees)](https://github.com/bosees/github-readme-stats)
 </p>
