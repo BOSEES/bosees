@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
-### 실력있는 블록체인 프론트엔드 개발자가 되기 위해 열심히 노력중입니다!
+### 코딩을 매우 즐기고 있고 실력있는 블록체인 프론트엔드 개발자가 되기 위해 주요 자질이라고 할 수 있는 문제 해결 능력을 키우기 위해 자료구조, 알고리즘 등을 시간이 날 때마다 공부하고 있습니다.
 
 <div align="center">
   
-<img style="width:400px" align="right" src="https://github-readme-stats.vercel.app/api?username=bosees&show_icons=true&theme=dracula&hide="/>
+<img style="width:400px; height:500px" align="right" src="https://github-readme-stats.vercel.app/api?username=bosees&show_icons=true&theme=dracula&hide="/>
  
  ---
 Develop Blog
