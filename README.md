@@ -3,7 +3,7 @@
 
 <div align="center">
   
-<img style="width:400px; height:500px" align="right" src="https://github-readme-stats.vercel.app/api?username=bosees&show_icons=true&theme=dracula&hide="/>
+<img style="width:400px;" align="right" src="https://github-readme-stats.vercel.app/api?username=bosees&show_icons=true&theme=dracula&hide="/>
  
  ---
 Develop Blog
