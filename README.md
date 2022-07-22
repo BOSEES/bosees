@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Your%20self&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
-## 블록체인 개발자가 되기위해 
+![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
+### 실력있는 블록체인 프론트엔드 개발자가 되기 위해 열심히 노력중입니다!
 
 <div align="center">
   
