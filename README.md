@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=YEOUNGIL%20KIM&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Your%20self&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
+## 블록체인 개발자가 되기위해 
 
 <div align="center">
   
