@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
-### 실력있는 블록체인 프론트엔드 개발자가 되기 위해 블록체인 트랜드 리서칭과 프로그래머로서의 주요 자질이라고 할 수 있는 문제 해결 능력을 키우기 위해서 자료구조, 알고리즘 등을 시간이 날 때마다 공부하고 있습니다.
+### 안녕하세요.
+저는 현재 FullStack 직군에서 프로젝트를 진행하고 있습니다.
+Javascript 언어를 가장 좋아합니다. 또한 흥미를 가지고 있는 언어는 Rust 입니다.
+FrontEnd 및 BackEnd 직군으로 프로젝트를 진행한 경력이 있습니다.
+
+현재는 크로스체인 합성자산 DeFi 플랫폼 PERI 프로젝트와 NFT 대출 플랫폼 NEND 프로젝트를 진행중입니다.
+탈중앙화를 기반으로 한 기술 트렌드와 실제 프로덕션의 중간에서 효율점을 찾아가며
+하루하루 발전해 나가고 있습니다. 잘 부탁드립니다.
 <br>
 ps. 또한 코딩을 매우 즐기고 있습니다!!😄
 <div align="center">
