@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=150&section=header&text=Don't%20Repeat%20Yourself&fontSize=65&animation=fadeIn&fontColor=f2e9e4)
 ### 안녕하세요.
 저는 현재 Node Operation 직군에서 프로젝트를 진행하고 있습니다.
-Javascript 언어를 가장 좋아합니다. 또한 흥미를 가지고 있는 언어는 Rust, Golang 입니다.
+Golang 언어를 가장 좋아합니다. 또한 흥미를 가지고 있는 언어는 Rust 입니다.
 FrontEnd 및 BackEnd 직군으로 프로젝트를 진행한 경력이 있습니다.
 
 현재는 Cosmos 진영의 Validator Node Operation을 진행중입니다.
